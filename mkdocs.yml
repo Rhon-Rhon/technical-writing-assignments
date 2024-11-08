@@ -1,0 +1,11 @@
+site_name: Technical writing assignments
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - How to submit: how-to-submit.md
+
+plugins:
+  - search
+  - mermaid2
